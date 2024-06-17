@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RazorPage_CRUD_Datafirst.props" />
+</Project>
